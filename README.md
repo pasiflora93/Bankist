@@ -5,9 +5,7 @@
 > Banking application with user accounts, balance transfer, taking loans, remove accounts.
 
 <p align="center">
-	<a href="https://omnifood-magdalena.netlify.app/">
-		<img src="https://github.com/pasiflora93/Omnifood-website/blob/main/website-img-omnifood.png" />
-    </a>
+	<img src="https://github.com/pasiflora93/Bankist/blob/main/Bankist-app-screenshot.png" />
 </p>
 
 ## Pre-requisities:
